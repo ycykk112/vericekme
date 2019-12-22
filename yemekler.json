@@ -1,53 +1,53 @@
 {"yemekler":[
   {
     "yemek_id":1, 
-    "yemek_adi":"Doe",
-    "yemek_aciklama":"Doe"
-    "yemek_tur":"Doe"
-    "yemek_pisirme_suresi":"Doe"
-    "yemek_hazirlama_suresi":"Doe"
-    "yemek_kisi_sayisi":"Doe"
-    "yemek_resim":"Doe"
-    "yemek_malzemeler":"Doe" },
+    "yemek_adi":"Etli Ekmek",
+    "yemek_aciklama":"Tarif "
+    "yemek_tur":"Ana Yemek"
+    "yemek_pisirme_suresi":"30 dk"
+    "yemek_hazirlama_suresi":"30 dk"
+    "yemek_kisi_sayisi":"1"
+    "yemek_resim":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuriUon9V-Nfi5KbupyZcscF6v1Rl0f_j90lhI466ujtUAsSO1"
+    "yemek_malzemeler":"Kıyma, Domates, Biber, Baharat, Un, Şeker, Soğan, yağ, tuz" },
   {
     "yemek_id":2, 
-    "yemek_adi":"Doe",
-    "yemek_aciklama":"Doe"
-    "yemek_tur":"Doe"
-    "yemek_pisirme_suresi":"Doe"
-    "yemek_hazirlama_suresi":"Doe"
-    "yemek_kisi_sayisi":"Doe"
-    "yemek_resim":"Doe"
-    "yemek_malzemeler":"Doe" },
+    "yemek_adi":"Taze Fasulye",
+    "yemek_aciklama":"Tarif "
+    "yemek_tur":"Ana Yemek"
+    "yemek_pisirme_suresi":"2 saat"
+    "yemek_hazirlama_suresi":"15 dk"
+    "yemek_kisi_sayisi":"4-6"
+    "yemek_resim":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoD0pFzEzLuWxLUyZlSEGhbUYXmcHBMS7_6QBDC84cuooquXXf"
+    "yemek_malzemeler":"Fasulye, soğan, domates, baharat, yağ,tuz" },
   {
     "yemek_id":3, 
-    "yemek_adi":"Doe",
-    "yemek_aciklama":"Doe"
-    "yemek_tur":"Doe"
-    "yemek_pisirme_suresi":"Doe"
-    "yemek_hazirlama_suresi":"Doe"
-    "yemek_kisi_sayisi":"Doe"
-    "yemek_resim":"Doe"
-    "yemek_malzemeler":"Doe" },
+    "yemek_adi":"Mercimek çorbası",
+    "yemek_aciklama":"Tarif"
+    "yemek_tur":"Çorba"
+    "yemek_pisirme_suresi":"1 saat"
+    "yemek_hazirlama_suresi":"1 saat"
+    "yemek_kisi_sayisi":"4-6"
+    "yemek_resim":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6kF6LiM_MnqRJfXjUIVf26WAAnZKARvK4k_oUGJt5XyTHaXKl"
+    "yemek_malzemeler":"mecimek, baharat,yağ,un,havuc" },
   {
     "yemek_id":4, 
-    "yemek_adi":"Yemek ad 1",
-    "yemek_aciklama":"Yemek Detayı 1"
-    "yemek_tur":"Yemek Turu 1"
-    "yemek_pisirme_suresi":"Pişirme Süresi 1"
-    "yemek_hazirlama_suresi":"Hazırlama Süresi 1"
-    "yemek_kisi_sayisi":"Yemek için kişi sayısı 1"
-    "yemek_resim":"Yemek resmi 1"
-    "yemek_malzemeler":"Malzemeler 1" },
+    "yemek_adi":"Baklava",
+    "yemek_aciklama":"tarif"
+    "yemek_tur":"Tatlı"
+    "yemek_pisirme_suresi":"50 dk"
+    "yemek_hazirlama_suresi":"1 saat"
+    "yemek_kisi_sayisi":"1 tepsi için 10 kişi"
+    "yemek_resim":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmSUL3WXCBVW17r3al0H6WFinbkt8WSUohowFiB21csesYqkHm"
+    "yemek_malzemeler":"yufka, şeker, yağ, un, antep fıstığı" },
   {
     "yemek_id":5, 
-    "yemek_adi":"Doe",
-    "yemek_aciklama":"Doe"
-    "yemek_tur":"Doe"
-    "yemek_pisirme_suresi":"Doe"
-    "yemek_hazirlama_suresi":"Doe"
-    "yemek_kisi_sayisi":"Doe"
-    "yemek_resim":"Doe"
-    "yemek_malzemeler":"Doe" }
+    "yemek_adi":"Çoban",
+    "yemek_aciklama":"Tarif"
+    "yemek_tur":"Salata"
+    "yemek_pisirme_suresi":"0 dk"
+    "yemek_hazirlama_suresi":"15 dk"
+    "yemek_kisi_sayisi":"4-6"
+    "yemek_resim":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf2W4ZUlJhb7APMWEmrHAecGvYVNouBvUxIWZmhZBiRWn2uugw"
+    "yemek_malzemeler":"domates, salatalık, soğan, marul,maydonız, baharat(istege göre), tuz, yağ" }
 
 ]}
