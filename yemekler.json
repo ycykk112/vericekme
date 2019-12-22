@@ -1,0 +1,53 @@
+{"yemekler":[
+  {
+    "yemek_id":1, 
+    "yemek_adi":"Doe",
+    "yemek_aciklama":"Doe"
+    "yemek_tur":"Doe"
+    "yemek_pisirme_suresi":"Doe"
+    "yemek_hazirlama_suresi":"Doe"
+    "yemek_kisi_sayisi":"Doe"
+    "yemek_resim":"Doe"
+    "yemek_malzemeler":"Doe" },
+  {
+    "yemek_id":2, 
+    "yemek_adi":"Doe",
+    "yemek_aciklama":"Doe"
+    "yemek_tur":"Doe"
+    "yemek_pisirme_suresi":"Doe"
+    "yemek_hazirlama_suresi":"Doe"
+    "yemek_kisi_sayisi":"Doe"
+    "yemek_resim":"Doe"
+    "yemek_malzemeler":"Doe" },
+  {
+    "yemek_id":3, 
+    "yemek_adi":"Doe",
+    "yemek_aciklama":"Doe"
+    "yemek_tur":"Doe"
+    "yemek_pisirme_suresi":"Doe"
+    "yemek_hazirlama_suresi":"Doe"
+    "yemek_kisi_sayisi":"Doe"
+    "yemek_resim":"Doe"
+    "yemek_malzemeler":"Doe" },
+  {
+    "yemek_id":4, 
+    "yemek_adi":"Yemek ad 1",
+    "yemek_aciklama":"Yemek Detayı 1"
+    "yemek_tur":"Yemek Turu 1"
+    "yemek_pisirme_suresi":"Pişirme Süresi 1"
+    "yemek_hazirlama_suresi":"Hazırlama Süresi 1"
+    "yemek_kisi_sayisi":"Yemek için kişi sayısı 1"
+    "yemek_resim":"Yemek resmi 1"
+    "yemek_malzemeler":"Malzemeler 1" },
+  {
+    "yemek_id":5, 
+    "yemek_adi":"Doe",
+    "yemek_aciklama":"Doe"
+    "yemek_tur":"Doe"
+    "yemek_pisirme_suresi":"Doe"
+    "yemek_hazirlama_suresi":"Doe"
+    "yemek_kisi_sayisi":"Doe"
+    "yemek_resim":"Doe"
+    "yemek_malzemeler":"Doe" }
+
+]}
